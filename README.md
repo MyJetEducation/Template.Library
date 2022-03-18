@@ -12,13 +12,13 @@ where ${path} is the **full** path to the clonned directory (where the folder .t
 ### Create
 
 `
-dotnet new myjeteducationservice -n {ServiceName} -o {ServiceDirectory}
+dotnet new myjeteducationlibrary -n {ServiceName} -o {ServiceDirectory}
 `
 
 e.g.
 
 `
-dotnet new myjeteducationservice -n SomeService -o SomeServiceFoulder
+dotnet new myjeteducationlibrary -n SomeService -o SomeServiceFoulder
 `
 # Features added to the template
 
